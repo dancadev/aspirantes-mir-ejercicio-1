@@ -49,3 +49,9 @@ Para imprimir la ubicación actual en la consola se utiliza el comando pwd.
 
 -   Para el siguiente commit usaremos:
     -   git commit -m "Agrega Solución primer ejercicio"
+
+12. Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
+
+-   para este paso cree un repositorio en github llamado 
+-   para agregar origen el repositorio se utiliza lo siguiente : git remote add origin https://github.com/dancadev/aspirantes-mir-ejercicio-1.git
+-   para publicar a github utilizamos lo siguiente: git push -u origin master.
